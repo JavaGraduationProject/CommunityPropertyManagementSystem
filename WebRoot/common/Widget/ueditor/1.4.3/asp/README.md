@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # UEditor ASP 支持说明
 
 应广大用户要求，UEditor 团队在原本支持的 PHP、Java 和 .Net 的后台的基础上，推出了 ASP 后台的支持。
